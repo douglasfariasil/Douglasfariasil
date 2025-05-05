@@ -34,7 +34,7 @@
       
  <td>
         <img
-          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+          src="https://icons8.com.br/icons/set/vscode-studio-visual"
           height="40"
           alt="vscode logo"
         />
@@ -42,11 +42,11 @@
       </td>
   <td> 
         <img
-          src="https://iconscout.com/free-icon/python-3521655_2945099"
+          src="https://icons8.com.br/icons/set/python"
           height="54"
           alt="python logo"
         />
-        <img width="12" /> Golang
+        <img width="12" /> Python
       </td>
  <td>
         <img
