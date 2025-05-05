@@ -42,9 +42,9 @@
       </td>
   <td> 
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
+          src="https://iconscout.com/free-icon/python-3521655_2945099"
           height="54"
-          alt="golang logo"
+          alt="python logo"
         />
         <img width="12" /> Golang
       </td>
