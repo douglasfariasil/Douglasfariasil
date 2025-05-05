@@ -12,7 +12,7 @@
     Eu sou Douglas! estou estudando para ser um desenvolvedor.
 
   - 🔭 Atualmente estou desempregado.
-  - 🌱 Atualmente estou aprendendo a programação em Golang.
+  - 🌱 Atualmente estou aprendendo a programação em Python, Git/GitHub.
   - 📫 Como entrar em contato comigo douglasfariasil@outlook.com
 </p>
 
