@@ -8,18 +8,19 @@
     <summary><h1 style="display: inline-block"> Olá, Tudo bem!</h1></summary>
 </div>
 
-<p>
-    Eu sou Douglas! estou estudando para ser um desenvolvedor.
+## Oiii eu sou o Douglas Faria, estudante de programação e tecnologia da DIO!
 
+<p>   
+  
   - 🔭 Atualmente estou desempregado.
-  - 🌱 Atualmente estou aprendendo a programação em Python, Git/GitHub.
+  - 🌱 E estou aprendendo a programação em Python, Git/GitHub.
   - 📫 Como entrar em contato comigo douglasfariasil@outlook.com
 </p>
 
 <hr/>
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/douglas fariasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas fariasil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/douglasfariasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglasfariasil" height="30" width="40" /></a>
 </p>
 
 <!-- GithubStats -->
@@ -42,7 +43,7 @@
       </td>
   <td> 
         <img
-          src="https://icons8.com.br/icons/set/python"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
           height="54"
           alt="python logo"
         />
