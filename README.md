@@ -5,37 +5,59 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> Olá, Tudo bem!</h1></summary>
-</div>
+    <summary><h1 style="display: inline-block"> 👩🏻‍💻 Douglas Faria </h1></summary>
+</div>    
+<h2> Estudante de Desenvolvedora em Python </h2>
 
-## Oiii eu sou o Douglas Faria, estudante de programação e tecnologia da DIO!
-
-<p>   
-  
-  - 🔭 Atualmente estou desempregado.
-  - 🌱 E estou aprendendo a programação em Python, Git/GitHub.
-  - 📫 Como entrar em contato comigo douglasfariasil@outlook.com
+## Eu sou o Douglas Faria da Silva, e sou natural de São Paulo. atualmente estou estudando na escola DIO, gosto muito de tecnologia e espero um futuro brilhante na área de TI!
+  <td>
+<p> 
+      <br/>
+        - 🔭 Atualmente estou desempregado.
+      <br/>
+        - 🌱 E estou aprendendo a programação em Python, Git/GitHub.
+      <br/>
+        - 📫 Como entrar em contato comigo douglasfariasil@outlook.com
+     <td>
+  <hr/>
+    <h3 align="left">Conecte-se comigo:</h3>
+      <a href="https://douglasfariasil@outlook.com">
+        <img
+            alt="microsoft outlook"
+            title="outlook"
+            src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+        />
+    </a> 
+      <a href="https://www.linkedin.com/in/douglasfariasil">
+        <img
+            alt="linkedin"
+            title="linkedin"
+            src="https://img.shields.io/badge/linkedin-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+        />
+    </a>    
+    </a>
+    <a href="https://github.com/douglasfariasil?tab=repositories&sort=stargazers">
+       <img 
+            alt="GitHub" 
+            title="GitHub" 
+            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
 </p>
-
-<hr/>
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/douglasfariasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglasfariasil" height="30" width="40" /></a>
-</p>
-
+      
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasfariasil&show_icons=true&theme=gotham)
 
 </p>
 <hr/>
-<h3>Ferramentas atuais</h3>
+<h3>Ferramentas e Linguagens</h3>
 <table>
   <tbody>
     <tr>
       
  <td>
         <img
-          src="https://icons8.com.br/icons/set/vscode-studio-visual"
+          src="https://skillicons.dev/icons?i=vscode"
           height="40"
           alt="vscode logo"
         />
